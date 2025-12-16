@@ -8,10 +8,10 @@ Nowadays, I have been exclusively working with C++.
 
 My current favorite IDE is Zed.
 
-Hobbies:
-  Local LLMs
-  Piano
-  Gym
+Hobbies:\n
+  Local LLMs\n
+  Piano\n
+  Gym\n
   Sleep
 
 
