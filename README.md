@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hello 👋
+
+I'm Ethan, a computer science student actively studying in New York City.
+
+My main stack before shipping off to college was React, TypeScript, Tailwind, and more.
+
+Nowadays, I have been exclusively working with C++.
+
+My current favorite IDE is Zed.
+
+Hobbies:
+  Local LLMs
+  Piano
+  Gym
+  Sleep
+
 
 <!--
 **EthanMalabago/EthanMalabago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
