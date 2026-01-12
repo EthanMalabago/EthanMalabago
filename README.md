@@ -2,17 +2,15 @@
 
 I'm Ethan, a computer science student actively studying in New York City.
 
-My main stack before shipping off to college was React, TypeScript, Tailwind, and more.
-
-Nowadays, I have been exclusively working with C++.
-
-My current favorite IDE is Zed.
-
 Hobbies:
 * Local LLMs
 * Piano
 * Gym
 * Sleep
+
+* How to reach me:
+* @ethanmalabago - Instagram
+* enm15@fordham.edu - Gmail
 
 
 <!--
