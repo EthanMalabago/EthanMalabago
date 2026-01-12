@@ -8,7 +8,7 @@ Hobbies:
 * Gym
 * Sleep
 
-* How to reach me:
+How to reach me:
 * @ethanmalabago - Instagram
 * enm15@fordham.edu - Gmail
 
