@@ -31,7 +31,7 @@ It's been a challenge, but I'm learning how to set up Vulkan using:
 - CMake
 - MoltenVK (macOS)
 
-My current focus in this field is learning how basic forward rendering works.
+My current focus in this field is learning how basic forward rendering and GPU programming works.
 
 ---
 
